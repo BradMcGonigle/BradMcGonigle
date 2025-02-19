@@ -2,7 +2,7 @@
 
 ## A dad, a husband and a software engineer
 
-I'm currently a Senior Engineer on the Frontend Platform team at [GoodRx](http://www.goodrx.com) pushing the path forward for our frontend teams. 🚀
+I'm currently a Lead Engineer on the Frontend Platform team at [GoodRx](http://www.goodrx.com) pushing the path forward for our frontend teams. 🚀
 
 ---
 
