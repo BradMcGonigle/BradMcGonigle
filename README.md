@@ -10,13 +10,18 @@ I'm currently a Lead Engineer on the Frontend Platform team at [GoodRx](http://w
 
 <p>
   <img alt="Apollo" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img alt="babel" src="https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black" />
   <img alt="CircleCi" src="https://img.shields.io/badge/CircleCI-343434.svg?style=for-the-badge&logo=CircleCI&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-191919.svg?style=for-the-badge&logo=Anthropic&logoColor=white" />
   <img alt="codecov" src="https://img.shields.io/badge/Codecov-F01F7A.svg?style=for-the-badge&logo=Codecov&logoColor=white" />
   <img alt="css modules" src="https://img.shields.io/badge/CSS%20Modules-000000.svg?style=for-the-badge&logo=CSS-Modules&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=Cursor&logoColor=white" />
   <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=Datadog&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399.svg?style=for-the-badge&logo=Gatsby&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
@@ -25,9 +30,12 @@ I'm currently a Lead Engineer on the Frontend Platform team at [GoodRx](http://w
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img alt="i18next" src="https://img.shields.io/badge/i18next-26A69A.svg?style=for-the-badge&logo=i18next&logoColor=white" />
   <img alt="jest" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white" />
   <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white" />
   <img alt="postcss" src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=for-the-badge&logo=PostCSS&logoColor=white" />
   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
@@ -39,10 +47,14 @@ I'm currently a Lead Engineer on the Frontend Platform team at [GoodRx](http://w
   <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+  <img alt="TanStack" src="https://img.shields.io/badge/TanStack-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white" />
   <img alt="turborepo" src="https://img.shields.io/badge/Turborepo-EF4444.svg?style=for-the-badge&logo=Turborepo&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" />
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" />
   <img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white" />
 </p>
